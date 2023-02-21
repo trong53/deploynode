@@ -1,0 +1,25 @@
+{
+  "name": "deploynode",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "engines": {
+    "node": "18.x"
+  },
+  "scripts": {
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/trong53/deploynode.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/trong53/deploynode/issues"
+  },
+  "homepage": "https://github.com/trong53/deploynode#readme",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
